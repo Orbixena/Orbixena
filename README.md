@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Orbixena/Orbixena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Orbixena! 👋
 
-Here are some ideas to get you started:
+Soy una persona anónima que está desarrollando una página con inteligencia artificial gratuita y sin limitaciones, donde puedes hacer cualquier pregunta, ya que no posee restricciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Cuento con una sólida formación profesional respaldada por varios títulos oficialmente homologados de [ITS](https://www.fundacionhiberus.com/certificacion/itspecialist)
+ - Pagina web [pronto...](https://orbixena.com)
+
+## Estadisticas de Github
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orbixena&theme=one-dark-pro&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## Lenguajes de programacion mas usados.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoureDev&layout=compact)
