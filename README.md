@@ -7,7 +7,7 @@ Soy una persona anónima que está desarrollando una página con inteligencia ar
  - Pagina web [pronto...](https://orbixena.com)
 
 ## Estadisticas de Github
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orbixena&theme=one-dark-pro&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orbixena&theme=transparent&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Lenguajes de programacion mas usados.
 
